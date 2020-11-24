@@ -38,6 +38,9 @@
 header {
     display: none;
 }
+.navbar-brand img {
+    width: 100px;
+}
 }
 @media (max-width: 575px){
 	.feature div {
