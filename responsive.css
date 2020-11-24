@@ -1,0 +1,46 @@
+@media (max-width: 1199px){
+	.navbar-brand img{
+		width: 120px;
+	}
+	.cart-menu {
+    width: auto;
+}
+.banner {
+    padding: 110px 0px;
+}
+
+}
+@media (max-width: 991px){
+	.compare-bag p a {
+    text-transform: lowercase;
+	}
+	.social ul.nav li a {
+    padding: .5rem 10px;
+	}
+	.kickstarter h5 {
+    font-size: 16px;
+}
+.feature div {
+    max-width: 330px;
+}
+
+}
+@media (max-width: 767px){
+	.kickstarter h5 {
+    font-size: 18px;
+}
+.kickstarter h5 {
+    font-size: 16px;
+}
+.feature div {
+    max-width: 90%;
+}
+header {
+    display: none;
+}
+}
+@media (max-width: 575px){
+	.feature div {
+    text-align: center;
+}
+}
