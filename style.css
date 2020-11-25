@@ -204,3 +204,60 @@ ul.cart-menu li a{
 .product:hover .product-details{
     color: #333;
 }
+.list{
+    border: 1px solid #333;
+}
+.list select{
+    background: #f5f0ed;
+}
+.list select option{}
+a{
+    text-decoration: none;
+    color: #333;
+}
+footer{
+    border-top: 1px solid #333;
+    padding-top: 50px;
+}
+.footer-details{}
+.footer-details ul{}
+.footer-details strong{
+    font-weight: 500;
+}
+.footer-details li{
+    padding: 5px 0;
+}
+.footer-details ul li a{
+    /* padding: 43px 0; */
+}
+.footer-details ul li a:hover{
+    color: #333;
+}
+a:hover{}
+.social{}.
+.social ul{}
+.social li a {
+    padding: 15px;
+    font-size: 22px;
+}
+.help-button{}
+.footer-button{
+    position: fixed;
+    bottom: 2%;
+    left: 2%;
+    background: #1F73B7;
+    border-radius: 30px;
+    padding: 12px 15px 0;
+    transition-duration: 0.3s;
+}
+.footer-button:hover{
+    box-shadow: 3px 2px 20px #00000070;
+}
+.footer-button p{}
+.footer-button a{
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+    font-weight: 600;
+}
+.footer-button a:hover{}

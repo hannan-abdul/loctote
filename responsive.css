@@ -64,6 +64,16 @@ header {
 .product:hover h4{
     bottom: 29%;
 }
+.footer-col{
+	width: 50%;
+}
+.footer-button a {
+    font-size: 15px;
+    padding: 6px;
+}
+.footer-button {
+    padding: 7px 6px 0;
+}
 }
 @media (max-width: 575px){
 	.feature div {
